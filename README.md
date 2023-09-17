@@ -1,3 +1,8 @@
+### I have just started working on this repository. In the future, it will consist of plugins for Russian-language sources.
+### Template information is provided below.
+
+----
+
 # `Cloudstream3 Plugin Repo Template`
 
 Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
