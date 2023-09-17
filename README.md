@@ -1,4 +1,4 @@
-### I have just started working on this repository. In the future, it will consist of plugins for Russian-language sources.
+### I have just started working on this repository. In the future, it will consist of plugins for Russian-language sources. I'm new to coding and scrapping, so it may take some time.
 ### Template information is provided below.
 
 ----
